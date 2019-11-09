@@ -1,0 +1,22 @@
+{
+  "name": "vidjot",
+  "version": "1.0.0",
+  "description": "Please read the readme file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaurabhMhase/VidJot.git"
+  },
+  "author": "Saurabh Mhase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaurabhMhase/VidJot/issues"
+  },
+  "homepage": "https://github.com/SaurabhMhase/VidJot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
